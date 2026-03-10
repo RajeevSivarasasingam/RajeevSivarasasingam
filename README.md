@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://linkedin.com/in/rajeevsivarasasingam" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/rajeev-sivarasasingam-39683a2a1/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30"/>
 </a>
 
