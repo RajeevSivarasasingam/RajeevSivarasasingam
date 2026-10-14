@@ -2,9 +2,6 @@
 
 <h3 align="center">Full-Stack Developer | Web & Mobile Developer | Tech Learner</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RajeevSivarasasingam&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 ---
 
